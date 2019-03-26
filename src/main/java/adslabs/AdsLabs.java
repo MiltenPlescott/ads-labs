@@ -12,6 +12,8 @@ import adslabs.lab1.AssignmentB;
 import adslabs.lab2.Foo;
 import adslabs.lab3.Bar;
 import adslabs.lab4.Knapsack;
+import adslabs.lab5.Casino;
+import adslabs.lab7.BinarySearchTree;
 
 /**
  *
@@ -31,9 +33,13 @@ public class AdsLabs {
 		// lab2.launch();
 		// Launchable lab3 = new Bar();
 		// lab3.launch();
+		// Launchable lab4 = new Knapsack();
+		// lab4.launch();
+		// Launchable lab5 = new Casino();
+		// lab5.launch();
 
-		Launchable lab4 = new Knapsack();
-		lab4.launch();
+		Launchable lab7 = new BinarySearchTree();
+		lab7.launch();
 
 	}
 
